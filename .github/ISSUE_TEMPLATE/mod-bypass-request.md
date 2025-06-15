@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+## Please try with RealPlayer (https://github.com/ton185/RealPlayer) installed and see if it fixes your issue first.
+
 **Mod URL**
 A link to the mod's download page
 
